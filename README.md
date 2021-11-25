@@ -1,4 +1,4 @@
-# Empty Javascript Project
+# Empty Javascript Website/Webapp using node/npm and webpack
 
 Install dependencies
 ```
